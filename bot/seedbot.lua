@@ -315,7 +315,7 @@ function create_config( )
     "jomlak",
     "admin"
     },
-    sudo_users = {122774063},--Sudo users
+    sudo_users = {192765292},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
